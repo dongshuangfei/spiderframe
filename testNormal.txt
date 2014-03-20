@@ -1,0 +1,3 @@
+testNormal.txt
+
+version =0.1
